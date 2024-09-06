@@ -1,0 +1,75 @@
+#pricipal{
+    background-color: rgb(9, 11, 88);
+}
+#header{
+    width: 100%;
+    text-align: center;
+}
+#frontend{
+    width: 32%;
+    margin: 1% auto;
+    float: left;
+    background-color: blue;
+}
+#backend{
+    width: 32%;
+    margin: 1% auto;
+    float: left;
+    background-color: red;
+}
+#fullstack{
+    width: 32%;
+    margin: 1%;
+    float: left;
+    background-color: blueviolet
+}
+ul{
+    text-decoration: none;
+}
+a{
+    color: black;
+} 
+#oqfront{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+#frontend2{
+    width: 100%;
+    margin-top: 4%;
+    float: left;
+}
+#pfe1{
+    float: left;
+    margin-top: auto;
+    margin-left: 10%;
+    width: 80%;
+}
+#class{
+    float: left;
+    margin-top: auto;
+    margin-left: 10%;
+    width: 80%; 
+}
+#frontend3{
+    width: 100%;
+    margin-top: 2%;
+    float: left;
+}
+#ul1{
+    text-decoration: none;
+    float: left;
+    margin-top: auto;
+    margin-left: 10%;
+    width: 80%;
+}
+ul a:hover{
+    background-color: violet;
+    color: rebeccapurple;
+}
+.active{
+    background-color: #fff;
+}
+a{
+    text-decoration: none;
+}
